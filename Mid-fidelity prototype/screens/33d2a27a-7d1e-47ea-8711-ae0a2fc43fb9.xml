@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>5</folderPosition>
+  <name>Service</name>
+  <code>33d2a27a-7d1e-47ea-8711-ae0a2fc43fb9</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date></date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>CENTER</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <width>375</width>
+  <height>667</height>
+  <item-group id="b2c2c13b-1740-4430-a38c-1610c12d840c" visible="true">
+    <line id="b6e010a1-078f-47b6-ac0b-4fa0ba9cf742" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+      <style name="LnFSeparationLine">
+        <DimensionStyle width="375" height="2" />
+        <PositioningStyle left="0" top="57" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="169r169g169b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+        </ShadowStyle>
+      </style>
+      <userID>Line_1</userID>
+    </line>
+    <rectangle id="577fccec-8876-4d37-b23a-16f0e848a43a" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFRectangle">
+        <DimensionStyle width="375" height="58" />
+        <PositioningStyle left="0" top="0" />
+        <BackgroundStyle type="color" value="1r187g210b" />
+        <BorderStyle radius="0" leftColor="169r169g169b" topColor="169r169g169b" rightColor="169r169g169b" bottomColor="169r169g169b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+        <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+        <FontStyle size="10.0" height="18">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="0">
+          <style name="LnFTextRange">
+            <FontStyle size="10.0" height="0">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Rectangle_6</userID>
+    </rectangle>
+    <group-container id="c2f14be5-eac9-451a-987b-902c67951425" hidden="false" lockType="vertical" onTop="false" visible="true">
+      <rectangle id="aac039b5-e367-4a93-ac02-e27acd1beea0" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFRectangle">
+          <DimensionStyle width="375" height="19" />
+          <PositioningStyle left="0" top="0" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="169r169g169b" topColor="169r169g169b" rightColor="169r169g169b" bottomColor="169r169g169b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+          <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="12.0" height="21">
+            <family>Roboto</family>
+            <style name="Bold" weight="700" italic="normal" />
+            <evc-file>Roboto-Bold</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="12.0" height="0">
+                <family>Roboto</family>
+                <style name="Bold" weight="700" italic="normal" />
+                <evc-file>Roboto-Bold</evc-file>
+              </FontStyle>
+              <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Rectangle_4</userID>
+      </rectangle>
+      <label id="a72d23a1-b39a-4587-b885-f1bfd988be33" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="16" height="16" autofit="true" />
+          <PositioningStyle left="41" top="3" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="12.0" height="16">
+            <family>IOS8-Icons</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>IOS8-Icons-Regular</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="12.0" height="16">
+                <family>IOS8-Icons</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>IOS8-Icons-Regular</evc-file>
+              </FontStyle>
+              <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <info>Check Circle Outline</info>
+        <userID>Label_417</userID>
+      </label>
+      <label id="314527c7-46f3-4bd2-846f-948c04929936" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="15" height="15" autofit="true" />
+          <PositioningStyle left="299" top="4" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="11.0" height="15">
+            <family>IOS8-Icons</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>IOS8-Icons-Regular</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="11.0" height="15">
+                <family>IOS8-Icons</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>IOS8-Icons-Regular</evc-file>
+              </FontStyle>
+              <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <info>Info Outline</info>
+        <userID>Label_430</userID>
+      </label>
+      <label id="5cbced19-b9e7-4530-b9bb-f99f2ee36e35" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>4:02 PM</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="78" height="19" />
+          <PositioningStyle left="149" top="0" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="0r0g0b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="9.0" height="16">
+            <family>Roboto</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>Roboto-Regular</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="9.0" height="16">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TextStyle color="0r0g0b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <info>Title Button</info>
+        <userID>Label_31</userID>
+      </label>
+      <group-container id="b3b23748-0adb-435c-a86c-036e8289105c" hidden="false" lockType="all" onTop="false" visible="true">
+        <ellipse id="8b5c137f-ca98-48e9-8f45-000a8305449f" hidden="false" lockType="all" onTop="false" visible="true">
+          <text></text>
+          <style name="LnFEllipse">
+            <DimensionStyle width="6" height="6" />
+            <PositioningStyle left="21" top="0" />
+            <BackgroundStyle type="color" value="0r0g0b" />
+            <BorderStyle radius="0" color="0r0g0b" style="none" width="1" />
+            <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="12.0" height="21">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <RotationStyle angle="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="0">
+              <style name="LnFTextRange">
+                <FontStyle size="12.0" height="0">
+                  <family>Roboto</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                  <evc-file>Roboto-Bold</evc-file>
+                </FontStyle>
+                <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <userID>Ellipse_7</userID>
+        </ellipse>
+        <ellipse id="4f6db32b-f337-456c-bc66-22282cccda21" hidden="false" lockType="all" onTop="false" visible="true">
+          <text></text>
+          <style name="LnFEllipse">
+            <DimensionStyle width="6" height="6" />
+            <PositioningStyle left="28" top="0" />
+            <BackgroundStyle type="color" value="0r0g0b" />
+            <BorderStyle radius="0" color="0r0g0b" style="none" width="1" />
+            <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="12.0" height="21">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <RotationStyle angle="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="0">
+              <style name="LnFTextRange">
+                <FontStyle size="12.0" height="0">
+                  <family>Roboto</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                  <evc-file>Roboto-Bold</evc-file>
+                </FontStyle>
+                <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <userID>Ellipse_32</userID>
+        </ellipse>
+        <ellipse id="8e7c99b8-220d-422a-a6ef-c21579495e55" hidden="false" lockType="all" onTop="false" visible="true">
+          <text></text>
+          <style name="LnFEllipse">
+            <DimensionStyle width="6" height="6" />
+            <PositioningStyle left="14" top="0" />
+            <BackgroundStyle type="color" value="0r0g0b" />
+            <BorderStyle radius="0" color="0r0g0b" style="none" width="1" />
+            <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="12.0" height="21">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <RotationStyle angle="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="0">
+              <style name="LnFTextRange">
+                <FontStyle size="12.0" height="0">
+                  <family>Roboto</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                  <evc-file>Roboto-Bold</evc-file>
+                </FontStyle>
+                <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <userID>Ellipse_33</userID>
+        </ellipse>
+        <ellipse id="3fbf0dfe-25e8-47aa-82a8-c52924ee07f3" hidden="false" lockType="all" onTop="false" visible="true">
+          <text></text>
+          <style name="LnFEllipse">
+            <DimensionStyle width="6" height="6" />
+            <PositioningStyle left="7" top="0" />
+            <BackgroundStyle type="color" value="0r0g0b" />
+            <BorderStyle radius="0" color="0r0g0b" style="none" width="1" />
+            <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="12.0" height="21">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <RotationStyle angle="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="0">
+              <style name="LnFTextRange">
+                <FontStyle size="12.0" height="0">
+                  <family>Roboto</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                  <evc-file>Roboto-Bold</evc-file>
+                </FontStyle>
+                <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <userID>Ellipse_34</userID>
+        </ellipse>
+        <ellipse id="1a6c8529-6af7-4c00-b090-94471636658f" hidden="false" lockType="all" onTop="false" visible="true">
+          <text></text>
+          <style name="LnFEllipse">
+            <DimensionStyle width="6" height="6" />
+            <PositioningStyle left="0" top="0" />
+            <BackgroundStyle type="color" value="0r0g0b" />
+            <BorderStyle radius="0" color="0r0g0b" style="none" width="1" />
+            <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="12.0" height="21">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <RotationStyle angle="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="0">
+              <style name="LnFTextRange">
+                <FontStyle size="12.0" height="0">
+                  <family>Roboto</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                  <evc-file>Roboto-Bold</evc-file>
+                </FontStyle>
+                <TextStyle color="17r116g193b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <userID>Ellipse_35</userID>
+        </ellipse>
+        <style name="LnFGroup">
+          <DimensionStyle width="34" height="6" />
+          <PositioningStyle left="4" top="7" />
+          <RotationStyle angle="0" />
+        </style>
+        <userID>Group_28</userID>
+      </group-container>
+      <label id="53b8ffd6-72cc-436c-a8da-b2f4990e4090" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>80%</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="50" height="19" />
+          <PositioningStyle left="302" top="1" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="0r0g0b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="9.0" height="16">
+            <family>Roboto</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>Roboto-Regular</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="3">
+            <style name="LnFTextRange">
+              <FontStyle size="9.0" height="16">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TextStyle color="0r0g0b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <info>Title Button</info>
+        <userID>Label_51</userID>
+      </label>
+      <image id="aace19cb-8c69-438b-b954-5a57a7c767a3" hidden="false" lockType="none" onTop="false" visible="true">
+        <image-name>023c5326-c9a6-44b0-b65a-fb4d8e0b2347.png</image-name>
+        <original-name>battery@2x.png</original-name>
+        <style name="LnFImage">
+          <DimensionStyle width="25" height="10" />
+          <PositioningStyle left="342" top="5" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Image_4</userID>
+      </image>
+      <style name="LnFGroup">
+        <DimensionStyle width="375" height="20" />
+        <PositioningStyle left="0" top="0" />
+        <RotationStyle angle="0" />
+      </style>
+      <info>Statusbar white</info>
+      <userID>Statusbar-white</userID>
+    </group-container>
+    <label id="f036f021-da6e-40c3-a079-8d3f53f09ea9" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Service</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="62" height="25" autofit="true" />
+        <PositioningStyle left="159" top="24" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="14.0" height="25">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="7" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="7">
+          <style name="LnFTextRange">
+            <FontStyle size="14.0" height="25">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_1</userID>
+    </label>
+    <label id="bf5cd602-ef52-4822-9e04-6ddc3ff47b32" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="27" height="27" autofit="true" />
+        <PositioningStyle left="7" top="24" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="27">
+          <family>IOS8-Icons</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>IOS8-Icons-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="27">
+              <family>IOS8-Icons</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>IOS8-Icons-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Previous</info>
+      <userID>Label_291</userID>
+    </label>
+    <image id="af315147-8d9a-474a-bed7-dd0be73dea4b" hidden="false" lockType="none" onTop="false" visible="true">
+      <image-name>43ad23a5-38fa-4363-8e1a-f4c12bce7798.png</image-name>
+      <original-name>JP_Clipboard_Image.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="375" height="44" />
+        <PositioningStyle left="0" top="623" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+        </ShadowStyle>
+      </style>
+      <userID>Image_6</userID>
+    </image>
+    <attribute-form id="9c6016f1-09da-400e-a8ca-5e3c0b8cebfd" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <attStyle>InputText</attStyle>
+      <type>text</type>
+      <style name="LnFAttributeForm">
+        <DimensionStyle width="265" height="37" />
+        <PositioningStyle left="36" top="627" />
+        <BackgroundStyle type="color" value="255r255g255b" />
+        <BorderStyle radius="47" leftColor="153r153g153b" topColor="153r153g153b" rightColor="153r153g153b" bottomColor="153r153g153b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="114r114g114b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="11.0" height="19">
+          <family>Roboto</family>
+          <style name="Light" weight="200" italic="normal" />
+          <evc-file>Roboto-Light</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="15" bottom="0" right="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <defaultValue></defaultValue>
+      <userID>Input_1</userID>
+    </attribute-form>
+    <tabbedBox id="ea3444a0-98ac-4858-abb0-db6e241e363e" default="0" selected="0" content-editable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <tab id="10d6a530-d19b-4dec-832f-533c301b163a" identifier="022deb55-479f-4744-b8a0-3b769aea483d" hScroll="0" vScroll="1" visible="true">
+        <name>Panel_1</name>
+        <userID>Panel_1</userID>
+        <item-group id="1353abe8-5bfe-4970-b89d-cbf8e1d5e1ee" visible="true">
+          <group-container id="5e937df8-87bd-4ed1-a631-137aad325538" hidden="false" lockType="none" onTop="false" visible="true">
+            <rich-text id="a318befc-9fd0-4214-81fa-a180800757c0" hidden="false" lockType="none" onTop="false" visible="true">
+              <text>Man, I wanna send my girlfriend to Shanghai, China. She is now at home </text>
+              <style name="LnFRichText">
+                <DimensionStyle width="287" height="53" />
+                <PositioningStyle left="4" top="0" />
+                <BackgroundStyle type="color" value="229r229g234b" />
+                <BorderStyle radius="75" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+                <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="19" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="7" bottom="0" right="7" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="71">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="19" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Rich_text_3</userID>
+            </rich-text>
+            <image id="96ab062b-0b4b-4877-8810-9ee049c7b0d8" hidden="false" lockType="none" onTop="false" visible="true">
+              <image-name>3e8790f6-1d26-47ab-b6eb-f91d470756c3.png</image-name>
+              <original-name>8149cddc-2035-4622-86bf-f2351f99379c.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="10" height="19" />
+                <PositioningStyle left="0" top="34" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_40</userID>
+            </image>
+            <style name="LnFGroup">
+              <DimensionStyle width="291" height="53" />
+              <PositioningStyle left="57" top="0" />
+              <RotationStyle angle="0" />
+            </style>
+            <info>iMessage 2</info>
+            <userID>Group_7</userID>
+          </group-container>
+          <image id="7166ab90-8929-4871-87b1-dec442182ef8" hidden="false" lockType="none" onTop="false" visible="true">
+            <image-name>5b318572-c541-49a0-9ec6-c88df8338299.png</image-name>
+            <original-name>JP_Clipboard_Image.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="57" height="52" />
+              <PositioningStyle left="1" top="14" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_1</userID>
+          </image>
+          <group-container id="58dc3274-661c-4b8f-bee1-29d702d98357" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="2956ca3d-7a79-4433-a1e1-42752dfaa374" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:00 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="14">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_2</userID>
+            </label>
+            <label id="c314da96-9aec-45bc-9e59-06b94cc1e91e" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_114</userID>
+            </label>
+            <label id="bf93ee5d-b5d4-4a47-a60c-bbac65e3d103" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_303</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="236" top="53" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_1</userID>
+          </group-container>
+          <image id="0b3e0d2e-e2ac-4f0a-9d0f-56b8ad6eaaea" hidden="false" lockType="none" onTop="false" visible="true">
+            <image-name>5b318572-c541-49a0-9ec6-c88df8338299.png</image-name>
+            <original-name>JP_Clipboard_Image.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="57" height="52" />
+              <PositioningStyle left="1" top="116" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_2</userID>
+          </image>
+          <group-container id="81f8abbd-06fa-44ef-9c81-a7ce35a4091a" hidden="false" lockType="none" onTop="false" visible="true">
+            <rich-text id="829be857-eeca-4205-bf82-d19ae594b544" hidden="false" lockType="none" onTop="false" visible="true">
+              <text>I wanna her safe and cound arrive there tomorrow 12 p.m. </text>
+              <style name="LnFRichText">
+                <DimensionStyle width="284" height="60" />
+                <PositioningStyle left="4" top="0" />
+                <BackgroundStyle type="color" value="229r229g234b" />
+                <BorderStyle radius="75" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+                <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="19" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="7" bottom="0" right="7" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="57">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="19" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Rich_text_4</userID>
+            </rich-text>
+            <image id="25249543-895b-4a13-84bc-0c9efb6081f9" hidden="false" lockType="none" onTop="false" visible="true">
+              <image-name>3e8790f6-1d26-47ab-b6eb-f91d470756c3.png</image-name>
+              <original-name>8149cddc-2035-4622-86bf-f2351f99379c.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="10" height="21" />
+                <PositioningStyle left="0" top="39" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_41</userID>
+            </image>
+            <style name="LnFGroup">
+              <DimensionStyle width="288" height="60" />
+              <PositioningStyle left="60" top="75" />
+              <RotationStyle angle="0" />
+            </style>
+            <info>iMessage 2</info>
+            <userID>Group_8</userID>
+          </group-container>
+          <group-container id="cb5f758d-1ecb-4641-9202-c9437bcdaa83" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="068eff0f-07eb-4900-9ae0-9c1ffbd44443" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:05 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="14">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_3</userID>
+            </label>
+            <label id="d848677f-4d90-4011-8613-9c4531a08369" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_115</userID>
+            </label>
+            <label id="476d203c-898e-4459-8e7a-0811e4ba7dda" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_304</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="235" top="135" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_2</userID>
+          </group-container>
+          <image id="49fc2e3f-0f05-468e-ade7-f8217b82a400" hidden="false" lockType="none" onTop="false" visible="true">
+            <image-name>5b318572-c541-49a0-9ec6-c88df8338299.png</image-name>
+            <original-name>JP_Clipboard_Image.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="57" height="52" />
+              <PositioningStyle left="1" top="219" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_3</userID>
+          </image>
+          <group-container id="bf65a5bb-f6d1-4b3f-a853-5aa25534c062" hidden="false" lockType="none" onTop="false" visible="true">
+            <rich-text id="32458cdf-e510-4f8d-9b85-fd6a9c36d029" hidden="false" lockType="none" onTop="false" visible="true">
+              <text>Moreover, since she never comes to China, please find a driver to take her to my home.</text>
+              <style name="LnFRichText">
+                <DimensionStyle width="282" height="87" />
+                <PositioningStyle left="4" top="0" />
+                <BackgroundStyle type="color" value="229r229g234b" />
+                <BorderStyle radius="75" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+                <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="19" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="7" bottom="0" right="7" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="86">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="19" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Rich_text_5</userID>
+            </rich-text>
+            <image id="be3f51e3-4ec0-49e4-9d85-ae8bc9cf37a9" hidden="false" lockType="none" onTop="false" visible="true">
+              <image-name>3e8790f6-1d26-47ab-b6eb-f91d470756c3.png</image-name>
+              <original-name>8149cddc-2035-4622-86bf-f2351f99379c.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="10" height="26" />
+                <PositioningStyle left="0" top="47" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_42</userID>
+            </image>
+            <style name="LnFGroup">
+              <DimensionStyle width="286" height="87" />
+              <PositioningStyle left="60" top="161" />
+              <RotationStyle angle="0" />
+            </style>
+            <info>iMessage 2</info>
+            <userID>Group_9</userID>
+          </group-container>
+          <group-container id="c12657e2-49c8-423c-aab9-5a6444b2614f" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="27a48fee-74de-4504-8245-cd5b8f318c97" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:07 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="14">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_4</userID>
+            </label>
+            <label id="cbe283b4-b955-447e-98a0-4207e2bd5338" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_116</userID>
+            </label>
+            <label id="195a5b96-b351-439e-9076-839cc359b876" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_305</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="235" top="247" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_3</userID>
+          </group-container>
+          <group-container id="1042ab88-1d51-4c7b-b7a7-d6c803760313" hidden="false" lockType="none" onTop="false" visible="true">
+            <image id="42601e27-78a2-4b24-8a9c-c2f43634fbe0" hidden="false" lockType="none" onTop="false" visible="true">
+              <image-name>853035d1-9773-4175-8e32-a75a96d19f5c.png</image-name>
+              <original-name>logo_sobre-white.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="46" height="46" />
+                <PositioningStyle left="0" top="0" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_5</userID>
+            </image>
+            <ellipse id="ac0b6a76-858a-4e22-a0c4-af099fad9434" hidden="false" lockType="none" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFEllipse">
+                <DimensionStyle width="44" height="45" />
+                <PositioningStyle left="1" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" color="1r187g210b" style="solid" width="2" />
+                <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="0">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Ellipse_1</userID>
+            </ellipse>
+            <style name="LnFGroup">
+              <DimensionStyle width="46" height="46" />
+              <PositioningStyle left="303" top="371" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_4</userID>
+          </group-container>
+          <rich-text id="da7a65cc-c0e0-4aa2-8d6d-3164a7e7d8a3" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>Yes, sir. Could you please provide a photo of her so that our delivery man could recogonize her?</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="274" height="96" />
+              <PositioningStyle left="72" top="272" />
+              <BackgroundStyle type="color" value="1r187g210b" />
+              <BorderStyle radius="75" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+              <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="21" />
+              <FontStyle size="11.0" height="19">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="7" bottom="0" right="7" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="96">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.0" height="19">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="21" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Rich_text_21</userID>
+          </rich-text>
+          <group-container id="82a94b00-e6aa-4c72-8b3a-edc2125880c9" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="30f62328-8ef8-45cb-a0f3-85ef49c6b77e" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:07 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="0">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_5</userID>
+            </label>
+            <label id="8c82b23c-ac69-4004-9c70-15d0f4419c64" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_117</userID>
+            </label>
+            <label id="4c097c59-7bcd-42f1-b313-57b4accf1a2d" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_306</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="69" top="369" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_5</userID>
+          </group-container>
+          <image id="6bebfb22-d4f2-40e8-b8a7-1a52e96cb4fc" hidden="false" lockType="none" onTop="false" visible="true">
+            <image-name>4eea1273-29c1-4f9f-9b01-7a0f24ace522.png</image-name>
+            <original-name>JP_Clipboard_Image.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="145" height="193" />
+              <PositioningStyle left="78" top="405" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_7</userID>
+          </image>
+          <image id="04da6200-f298-49db-b733-2df43a10a784" hidden="false" lockType="none" onTop="false" visible="true">
+            <image-name>5b318572-c541-49a0-9ec6-c88df8338299.png</image-name>
+            <original-name>JP_Clipboard_Image.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="57" height="52" />
+              <PositioningStyle left="0" top="393" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_8</userID>
+          </image>
+          <group-container id="18311944-e659-4cdc-8b01-6589189b68ce" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="47669a60-7dd5-4155-b85a-dab3d18b947f" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:08 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="14">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_6</userID>
+            </label>
+            <label id="f1e81f88-43fb-4d52-baec-2ff182161e59" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_118</userID>
+            </label>
+            <label id="8896b982-db8e-4e85-8c13-6d71bd233476" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_307</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="238" top="594" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_6</userID>
+          </group-container>
+          <group-container id="87e6022e-2082-4a52-ad8a-55a03d254812" hidden="false" lockType="none" onTop="false" visible="true">
+            <image id="4f03c7e7-1b83-476e-abe1-4106104ea530" hidden="false" lockType="none" onTop="false" visible="true">
+              <image-name>853035d1-9773-4175-8e32-a75a96d19f5c.png</image-name>
+              <original-name>logo_sobre-white.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="46" height="46" />
+                <PositioningStyle left="0" top="0" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_9</userID>
+            </image>
+            <ellipse id="09b02a52-8d2c-425b-ae08-315f4cf78f30" hidden="false" lockType="none" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFEllipse">
+                <DimensionStyle width="44" height="45" />
+                <PositioningStyle left="1" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" color="1r187g210b" style="solid" width="2" />
+                <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="0">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Ellipse_2</userID>
+            </ellipse>
+            <style name="LnFGroup">
+              <DimensionStyle width="46" height="46" />
+              <PositioningStyle left="303" top="1016" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_10</userID>
+          </group-container>
+          <rich-text id="b78eb305-92ae-4a05-8726-bfbdcf07f325" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>OMG! What a lovely girl!
+Sir, here is our deliver plan, please check.</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="274" height="94" />
+              <PositioningStyle left="78" top="914" />
+              <BackgroundStyle type="color" value="1r187g210b" />
+              <BorderStyle radius="75" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+              <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="21" />
+              <FontStyle size="11.0" height="19">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="2" />
+              <PaddingStyle top="0" left="7" bottom="0" right="7" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="69">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.0" height="19">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="21" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Rich_text_22</userID>
+          </rich-text>
+          <group-container id="646d9405-4bcb-4332-bd8e-9951dd688d5b" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="2be34cd1-af07-44ee-8881-2fc6c6f2713a" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:08 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="14">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_7</userID>
+            </label>
+            <label id="ff4045d5-d00f-4f9d-814a-dbc63ea844c7" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_119</userID>
+            </label>
+            <label id="9cb9719e-5ce6-4039-b693-4e20791ce19f" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_308</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="79" top="1009" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_11</userID>
+          </group-container>
+          <image id="932644df-4f47-4357-88f8-06983d2c3ed2" hidden="false" lockType="none" onTop="false" visible="true">
+            <image-name>b34fd0ac-7d34-4ca1-ae84-a026460aacb6.png</image-name>
+            <original-name>JP_Clipboard_Image.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="145" height="259" />
+              <PositioningStyle left="78" top="624" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_10</userID>
+          </image>
+          <group-container id="ca00b840-2629-4c0e-948e-d105a22b86d5" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="6bf81ef8-8de7-4341-9730-87f09a23c6eb" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:08 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="0">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_12</userID>
+            </label>
+            <label id="3a01c57b-c6d6-42c6-b6c8-aa6fc9387a80" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_120</userID>
+            </label>
+            <label id="b2d4f995-99ed-48d3-a445-ed1b4262032b" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_309</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="239" top="880" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_12</userID>
+          </group-container>
+          <rectangle id="6d87ea1e-d7cf-4483-ab55-1fc63bf6eaa5" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="273" height="184" />
+              <PositioningStyle left="79" top="1071" />
+              <BackgroundStyle type="color" value="1r187g210b" />
+              <BorderStyle radius="50" leftColor="1r187g210b" topColor="1r187g210b" rightColor="1r187g210b" bottomColor="1r187g210b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+              <FontStyle size="10.0" height="18">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="10.0" height="0">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Rectangle_2</userID>
+          </rectangle>
+          <rich-text id="f64a8848-dd6e-4264-824a-9a1a236169d2" hidden="false" lockType="vertical" onTop="false" visible="true">
+            <text>Arrange an airline to help the user&amp;apos;s girlfried go to Shanghai. Because she does not know about Shanghai, we will arrange a driver to pick up her at the airport and driver her the destination.</text>
+            <style name="LnFRichText">
+              <DimensionStyle width="222" height="125" autofit="true" />
+              <PositioningStyle left="109" top="1078" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="21" />
+              <FontStyle size="11.0" height="19">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="192">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.0" height="19">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="21" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Paragraph_1</userID>
+          </rich-text>
+          <group-container id="c83647f5-7bfc-44b1-aa20-53b3aa61457d" hidden="false" lockType="none" onTop="false" visible="true">
+            <image id="8406255a-d4a9-4ac6-8927-767e0507f324" hidden="false" lockType="none" onTop="false" visible="true">
+              <image-name>853035d1-9773-4175-8e32-a75a96d19f5c.png</image-name>
+              <original-name>logo_sobre-white.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="46" height="46" />
+                <PositioningStyle left="0" top="0" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_11</userID>
+            </image>
+            <ellipse id="655c97d5-b734-4cdf-aff0-c31d8da06463" hidden="false" lockType="none" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFEllipse">
+                <DimensionStyle width="44" height="45" />
+                <PositioningStyle left="1" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" color="1r187g210b" style="solid" width="2" />
+                <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="0">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Ellipse_3</userID>
+            </ellipse>
+            <style name="LnFGroup">
+              <DimensionStyle width="46" height="46" />
+              <PositioningStyle left="306" top="1256" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_13</userID>
+          </group-container>
+          <label id="57fb6ac1-3095-4cb6-9a39-ae5fbbb51758" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+            <text>Deliver Plan</text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="100" height="25" autofit="true" />
+              <PositioningStyle left="154" top="1040" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="1r187g210b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="14.0" height="25">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="12">
+                <style name="LnFTextRange">
+                  <FontStyle size="14.0" height="25">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="1r187g210b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Text_13</userID>
+          </label>
+          <group-container id="a5d082be-9a32-4ee0-9952-6680def0c1d0" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="dda1859e-a17d-4d08-a2c1-f875ba784807" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Today 08:08 a.m.</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="83" height="14" autofit="true" />
+                <PositioningStyle left="12" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="14">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="16">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="0">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="153r153g153b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_14</userID>
+            </label>
+            <label id="aeec8de0-1bbb-4434-a19f-14962467f653" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="11" height="11" autofit="true" />
+                <PositioningStyle left="0" top="2" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="8.0" height="11">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="8.0" height="11">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Clock</info>
+              <userID>Label_121</userID>
+            </label>
+            <label id="aae6fef0-11c1-4afd-bfd4-b4e4549c3864" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="13" height="13" autofit="true" />
+                <PositioningStyle left="97" top="1" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="13">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="13">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="169r169g169b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>OK</info>
+              <userID>Label_310</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="110" height="14" />
+              <PositioningStyle left="84" top="1257" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_14</userID>
+          </group-container>
+          <rectangle id="a18f17bc-a6fd-4afa-90ca-acbe2c22999b" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="194" height="26" />
+              <PositioningStyle left="122" top="1222" />
+              <BackgroundStyle type="color" value="153r153g153b" />
+              <BorderStyle radius="2" leftColor="169r169g169b" topColor="169r169g169b" rightColor="169r169g169b" bottomColor="169r169g169b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+              <FontStyle size="10.0" height="18">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="35" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="10.0" height="0">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="64r64g64b" hAlign="center" vAlign="center" decoration="none" line-height="17" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Rectangle_1</userID>
+          </rectangle>
+          <group-container id="5278d842-9053-4947-a638-30945e41827c" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="8618bd30-e46c-4369-acbb-102d312ae801" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="27" height="27" autofit="true" />
+                <PositioningStyle left="0" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="0r255g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="20.0" height="27">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="20.0" height="27">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="0r255g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Ok green</info>
+              <userID>ok-green</userID>
+            </label>
+            <label id="d073a4b1-0061-4366-bc0e-aced484852b8" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Accept</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="43" height="18" autofit="true" />
+                <PositioningStyle left="28" top="5" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="6">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_10</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="71" height="27" />
+              <PositioningStyle left="237" top="1221" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_16</userID>
+          </group-container>
+          <group-container id="5b6315ea-ab68-4f36-81c0-17cae21fc5bc" hidden="false" lockType="none" onTop="false" visible="true">
+            <label id="9454846a-4a7d-40e0-bea0-ea2525773848" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="27" height="27" autofit="true" />
+                <PositioningStyle left="0" top="0" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="255r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="20.0" height="27">
+                  <family>IOS8-Icons</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>IOS8-Icons-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="20.0" height="27">
+                      <family>IOS8-Icons</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>IOS8-Icons-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="255r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Close blue</info>
+              <userID>close-blue</userID>
+            </label>
+            <label id="945e164f-8e95-419c-87f9-e5a207271a34" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text>Reject</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="38" height="18" autofit="true" />
+                <PositioningStyle left="28" top="4" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="10.0" height="18">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="6">
+                  <style name="LnFTextRange">
+                    <FontStyle size="10.0" height="18">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Text_9</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="66" height="27" />
+              <PositioningStyle left="141" top="1222" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Group_15</userID>
+          </group-container>
+          <style name="LnFCell">
+            <DimensionStyle width="375" height="565" />
+            <PositioningStyle left="0" top="58" />
+            <BackgroundStyle type="transparent" />
+            <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" />
+            <ShadowStyle>
+              <Box enable="false" />
+            </ShadowStyle>
+          </style>
+        </item-group>
+      </tab>
+      <style name="LnFTabbedBox">
+        <DimensionStyle width="0" height="0" />
+        <PositioningStyle left="0" top="58" />
+        <RotationStyle angle="0" />
+      </style>
+      <userID>Dynamic_Panel_1</userID>
+    </tabbedBox>
+    <style name="LnFCanvas">
+      <DimensionStyle width="375" height="667" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="5cbced19-b9e7-4530-b9bb-f99f2ee36e35" trigger="onPageLoad">
+      <case execType="serial" delayAction="0">
+        <description>Interaction name</description>
+        <block>
+          <valueElement type="calculated" item="5cbced19-b9e7-4530-b9bb-f99f2ee36e35" execType="serial" delayAction="0">
+            <Function name="Concat">
+              <Function name="Substring">
+                <Value type="systemTime" />
+                <Value type="textConstant">
+                  <value>0</value>
+                </Value>
+                <Value type="textConstant">
+                  <value>5</value>
+                </Value>
+              </Function>
+              <Value type="textConstant">
+                <value> PM</value>
+              </Value>
+            </Function>
+          </valueElement>
+        </block>
+      </case>
+    </event>
+    <event id="bf5cd602-ef52-4822-9e04-6ddc3ff47b32" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction name</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="18f8704d-49c1-4bc5-b327-2ade19ef24b0">Delivery history screen</screen>
+            <type>window</type>
+            <transition type="slideright" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+

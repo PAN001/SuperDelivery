@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <image id="f97732b6-b618-4ce4-913e-0c779b1b8756" hidden="false" lockType="none" onTop="false" visible="true">
+    <image-name>ccbeb6b5-ccca-442a-81fb-772953809146.gif</image-name>
+    <original-name>loading.gif</original-name>
+    <style name="LnFImage">
+      <DimensionStyle width="33" height="33" />
+      <PositioningStyle left="10" top="10" />
+      <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+      <TransparencyStyle value="0" />
+      <RotationStyle angle="0" />
+      <ShadowStyle>
+        <Box enable="false" />
+      </ShadowStyle>
+    </style>
+    <userID>Image_1</userID>
+  </image>
+  <Events />
+</root>
+
