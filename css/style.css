@@ -256,7 +256,7 @@ html, body {
   }
   .cd-product-intro h1 {
     font-size: 50px;
-    font-size: 3.125rem;
+    font-size: 6.125rem;
   }
   .cd-product-intro p {
     font-size: 30px;
@@ -684,3 +684,12 @@ margin-top: 5px;
 blockquote cite:before {
 content: "\2014 \2009";
 }
+
+.cd-single-item.cd-active.cd-not-visible {
+visibility: visible;
+}
+
+#teamName {
+    color: #f58780;
+}
+
