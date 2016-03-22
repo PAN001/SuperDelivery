@@ -1,0 +1,22 @@
+App介绍：
+
+Due to the rapid living style of people in current society, people need more convenient service to relieve themselves from some tivial stuff. Especially students in UNNC, we are sometimes too busy or too lazy to handle something, such as getting the Taobao delivery, getting the take-out from the cantene. We want to have somebody to help us get the delivery or take meals or anything we want directly to our domitory.
+As a result, we design such an app, whcih provides students with various services. In particular, we make the app in a sender-receiver way so that students who are willing to provide service could not only help others but get profits from it. Indeed, it offers students a platform where we can help each other for a better university life.
+
+
+1. 
+Some key concepts are adopted during the design stage: interaction design, user experience, cognitive perspective, conceptual model and design. There are many aspects of the user experience taken into consideration during the design: usability, efficiency, utility, learnability and memorability.
+
+2. 
+Basically, the app interfac is divided into three parts: head, body and bottom, and we particularly make it consistent through out all pages. This design reflects consistency implication of Gestalt psychology. So, we try to group related items close together and separate unrelated ones and make related items look the same and unrelated items look different. 
+
+3.
+We also learnt some design impilcations from apple.  One is putting enough negative space. According to Gestalt psychology, the memory of humans is strongly limited, it is necessary to avoid possible interruptions and highlight focus. In this case, negative space makes important content and functionality more noticeable and easier to understand, and can also instill a sense of calm and tranquility, which makes an app look more focused and efficient.
+
+
+4. receiver：
+Basically, the app provides a platform for two kinds of people. First is students who want help. We call them receivers. Receivers log into the blue interface, and if they want any service, they could request it by talking to a super intelligent AI in a chatting way. This AI will collect receiver's requirements and send it the sender the receiver selects. 
+After confirming and paying, the sender could also track the state of the delivery and see related information about it, such as the estimation of arriving time.
+
+5. sender：
+The senders are the other user group of our app. They are students who are willing to provide help. They are in this pink interface. After there is a service request allocated to sender, he could see a badge and choose to accept it or not. 
