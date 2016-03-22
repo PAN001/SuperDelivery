@@ -13,10 +13,12 @@ Basically, the app interfac is divided into three parts: head, body and bottom, 
 3.
 We also learnt some design impilcations from apple.  One is putting enough negative space. According to Gestalt psychology, the memory of humans is strongly limited, it is necessary to avoid possible interruptions and highlight focus. In this case, negative space makes important content and functionality more noticeable and easier to understand, and can also instill a sense of calm and tranquility, which makes an app look more focused and efficient.
 
+4.
+We also focus on the appropriate application of animation, which could not only interact with users by giving hint or feeback, but also could make our app more dynamic.
 
-4. receiver：
+5. receiver：
 Basically, the app provides a platform for two kinds of people. First is students who want help. We call them receivers. Receivers log into the blue interface, and if they want any service, they could request it by talking to a super intelligent AI in a chatting way. This AI will collect receiver's requirements and send it the sender the receiver selects. 
 After confirming and paying, the sender could also track the state of the delivery and see related information about it, such as the estimation of arriving time.
 
-5. sender：
+6. sender：
 The senders are the other user group of our app. They are students who are willing to provide help. They are in this pink interface. After there is a service request allocated to sender, he could see a badge and choose to accept it or not. 
